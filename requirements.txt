@@ -1,0 +1,68 @@
+argon2-cffi==20.1.0
+async-generator==1.10
+attrs==20.2.0
+backcall==0.2.0
+bleach==3.2.1
+certifi==2020.6.20
+cffi==1.14.3
+colorama==0.4.3
+cycler==0.10.0
+decorator==4.4.2
+defusedxml==0.6.0
+entrypoints==0.3
+graphviz==0.14.1
+imbalanced-learn @ file:///home/conda/feedstock_root/build_artifacts/imbalanced-learn_1592145894352/work
+importlib-metadata==2.0.0
+ipykernel==5.3.4
+ipython==7.18.1
+ipython-genutils==0.2.0
+jedi==0.17.2
+Jinja2==2.11.2
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1601671685479/work
+jsonschema==3.2.0
+jupyter-client==6.1.7
+jupyter-core==4.6.3
+jupyterlab-pygments==0.1.1
+kiwisolver @ file:///D:/bld/kiwisolver_1602517426007/work
+MarkupSafe==1.1.1
+matplotlib @ file:///D:/bld/matplotlib-suite_1602600992856/work
+mistune==0.8.4
+mkl-service==2.3.0
+mlxtend @ file:///home/conda/feedstock_root/build_artifacts/mlxtend_1595907137614/work
+nbclient==0.5.0
+nbconvert==6.0.5
+nbformat==5.0.7
+nest-asyncio==1.4.0
+notebook==6.1.4
+numpy @ file:///D:/bld/numpy_1602429292582/work
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+packaging==20.4
+pandas @ file:///D:/bld/pandas_1603237186851/work
+pandocfilters==1.4.2
+parso==0.7.1
+pickleshare==0.7.5
+Pillow @ file:///D:/bld/pillow_1602708866397/work
+prometheus-client==0.8.0
+prompt-toolkit==3.0.7
+pycparser==2.20
+Pygments==2.7.1
+pyparsing==2.4.7
+pyrsistent==0.17.3
+python-dateutil==2.8.1
+pytz==2020.1
+pywin32==228
+pywinpty==0.5.7
+pyzmq==19.0.2
+scikit-learn @ file:///D:/bld/scikit-learn_1596546337481/work
+scipy @ file:///C:/ci/scipy_1597686737426/work
+Send2Trash==1.5.0
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+terminado==0.9.1
+testpath==0.4.4
+threadpoolctl @ file:///tmp/tmp79xdzxkt/threadpoolctl-2.1.0-py3-none-any.whl
+tornado @ file:///D:/bld/tornado_1602489103741/work
+traitlets==5.0.4
+wcwidth==0.2.5
+webencodings==0.5.1
+wincertstore==0.2
+zipp==3.2.0
